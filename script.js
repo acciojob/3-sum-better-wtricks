@@ -20,5 +20,5 @@ function threeSum(arr, target) {
     
     return null; 
 }
-
+console.log(threeSum([-1,2,1,-4], 1))
 module.exports = threeSum;
